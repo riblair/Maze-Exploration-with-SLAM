@@ -5,3 +5,7 @@ turtlebot3_simulations/
 *.pyc
 lab3/src/__pycache__/
 lab2/src/__pycache__/
+lastlab/maps/map.pgm
+lastlab/maps/map.pgm
+lastlab/maps/Realmap.pgm
+lastlab/maps/Realmap.yaml

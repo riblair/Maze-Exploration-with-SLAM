@@ -1,9 +1,0 @@
-<launch>
-  <arg name="model" default="$(env TURTLEBOT3_MODEL)" doc="model type [burger, waffle, waffle_pi]"/>
-
-  <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_empty_world.launch" />
-
-  <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_gazebo_rviz.launch"  />
-
-  <node name="lab2" pkg="lab2" type="lab2.py"/>
-</launch>

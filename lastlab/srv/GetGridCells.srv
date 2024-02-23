@@ -1,0 +1,6 @@
+# Get the gridcells list of all frontier nodes
+
+nav_msgs/OccupancyGrid inMap
+---
+nav_msgs/GridCells frontier
+nav_msgs/OccupancyGrid map
