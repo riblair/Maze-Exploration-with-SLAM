@@ -1,0 +1,7 @@
+beginner_tutorials/
+learning_tf/
+robot_setup_tf/
+turtlebot3_simulations/
+*.pyc
+lab3/src/__pycache__/
+lab2/src/__pycache__/
